@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppTestCZ", "WebAppTestCZ\WebAppTestCZ.csproj", "{C464CDD6-60E6-49F1-BB24-6316DAB9C4C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCZxUnitTests", "TestCZxUnitTests\TestCZxUnitTests.csproj", "{498F7BD2-2B56-402E-9CB3-BDFD0C7BC7E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestClient", "TestClient", "{FDFF9317-21DF-4390-AECF-2A8D785A6465}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Área de Trabalho\TestCZ\TestClientOne.png = ..\..\..\..\OneDrive\Área de Trabalho\TestCZ\TestClientOne.png
+		..\..\..\..\OneDrive\Área de Trabalho\TestCZ\TestClientThree.png = ..\..\..\..\OneDrive\Área de Trabalho\TestCZ\TestClientThree.png
+		..\..\..\..\OneDrive\Área de Trabalho\TestCZ\TestClientTwo.png = ..\..\..\..\OneDrive\Área de Trabalho\TestCZ\TestClientTwo.png
+		..\..\..\..\OneDrive\Área de Trabalho\TestCZ\xUnitTests.png = ..\..\..\..\OneDrive\Área de Trabalho\TestCZ\xUnitTests.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C464CDD6-60E6-49F1-BB24-6316DAB9C4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C464CDD6-60E6-49F1-BB24-6316DAB9C4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C464CDD6-60E6-49F1-BB24-6316DAB9C4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C464CDD6-60E6-49F1-BB24-6316DAB9C4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498F7BD2-2B56-402E-9CB3-BDFD0C7BC7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498F7BD2-2B56-402E-9CB3-BDFD0C7BC7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498F7BD2-2B56-402E-9CB3-BDFD0C7BC7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498F7BD2-2B56-402E-9CB3-BDFD0C7BC7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3099B3BC-B53E-4435-B8FF-7AA80E52FC62}
+	EndGlobalSection
+EndGlobal
